@@ -32,8 +32,8 @@ We have a few keyboard shortcuts within the script(s), see below:
 
 **ESC**          :   Pause/Resume the CAN log being displayed in the terminal.   
 **Alt + S**      :   Open Tx GUI   
-**Ctrl + P**     :   Pause/Resume the current Tx loop (or) TestCase                                                             
-
+**Ctrl + P**     :   Pause/Resume the current Tx loop (or) TestCase
+**Ctrl + C**     :   Capture entire log into 'can_messages.xlsx' and exit the application. 
 
 
 **Tx GUI window:**
